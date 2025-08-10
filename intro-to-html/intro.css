@@ -1,0 +1,41 @@
+ body{
+    font-family:Roboto;
+ }
+ a{
+            color:rgb(0,113,133);
+            cursor: pointer;
+        }
+        .first{
+            font-size:25px;
+            font-weight:bold;
+
+        }
+        .second{
+            font-size:18px;
+            color:rgb(0,118,0);
+            font-weight:bold;
+        }
+        .third{
+           font-size: 18px; 
+        }
+        .fourth{
+            background-color: rgb(255,216,20);
+            border:none;
+            height:35px;
+            width:95px;
+            border-radius: 27px;
+            font-weight:bold;
+            cursor:pointer;
+
+        }
+        .fifth{
+            margin-left:18px;
+            background-color:rgb(255,164,28);
+            border:none;
+            height:35px;
+            width:95px;
+            border-radius:27px;
+            font-weight:bold;
+            cursor:pointer;
+
+        }
